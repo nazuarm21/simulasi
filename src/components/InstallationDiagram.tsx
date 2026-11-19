@@ -24,7 +24,7 @@ interface InstallationDiagramProps {
   onToggleBallValve: () => void;
 }
 
-const REFERENCE_IMAGE_PATH = '/assets/aistudio/INSTALASI_PENGUJIAN_METER_AIR_DG_MASTER_METER_1e87b9b1.png';
+const REFERENCE_IMAGE_PATH = `${import.meta.env.BASE_URL}assets/aistudio/INSTALASI_PENGUJIAN_METER_AIR_DG_MASTER_METER_1e87b9b1.png`;
 
 function buildLeaderPath(comp: InstallationComponent): string {
   const { anchor, labelPos } = comp;
