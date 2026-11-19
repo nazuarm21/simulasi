@@ -1,0 +1,6 @@
+{
+  "name": "Modul Pelatihan Teknisi: Instalasi Pengujian Meter Air",
+  "description": "Ilustrasi teknis minimalis dan modul pelatihan interaktif instalasi pengujian meter air dengan master meter untuk teknisi lapangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
